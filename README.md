@@ -1,2 +1,3 @@
 # ccsds_time_telemetry_standard_draft
-Draft document of Definition of time telemetry standard
+
+This repository contains CCSDS time telemetry standards.
